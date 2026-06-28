@@ -1,0 +1,6 @@
+{
+  "name": "Mobile OCR Scanner",
+  "description": "Digitize handwritten notebook records into structured Excel files by extracting Names, NHIS Numbers, and Dates with advanced Gemini-powered handwriting recognition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
